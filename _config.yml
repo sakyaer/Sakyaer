@@ -1,11 +1,11 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: <a href="http://swifter.tips" target="_blank">Swifter.tips - 我维护的 Swift 使用技巧分享网站，每周三更新，欢迎访问</a>
-description: 嗨，我是王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Sakyaer
+subtitle: 道可道
+welcome_message: 
+description: Unity开发者/UE4修炼中，探求创意之源。
+creator: <a href="http://sakyaer.github.io">@onevcat</a>
 
-url: "http://onevcat.com"
+url: "hhttp://sakyaer.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -23,9 +23,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
-    - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
+    - {title: 归档, description: 博文归档, url: 'http://sakyaer.github.io'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -34,17 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: onevcat
+    disqus: false
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: sakyaer
+    github: sakyaer
+    twitter: sakyaer
+    mail: sakyaer@foxmail.com
 
 # Google Analytics
-ga:
-    id: UA-25719337-1
-    host: onevcat.com
+#ga:
+#    id: UA-25719337-1
+#    host: onevcat.com
